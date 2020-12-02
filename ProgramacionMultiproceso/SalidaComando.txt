@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 7A4B-0A78
+
+ Directorio de C:\Users\JavierRoman\Desktop\Progse\ProgramacionMultiproceso
+
+02/12/2020  19:59    <DIR>          .
+02/12/2020  19:59    <DIR>          ..
+02/12/2020  08:48               301 .classpath
+02/12/2020  08:48               400 .project
+02/12/2020  08:48    <DIR>          .settings
+02/12/2020  08:48    <DIR>          bin
+02/12/2020  20:10                 0 SalidaComando.txt
+02/12/2020  08:48    <DIR>          src
+               3 archivos            701 bytes
+               5 dirs  100.569.432.064 bytes libres
